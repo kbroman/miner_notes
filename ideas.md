@@ -1,6 +1,8 @@
-item_info: id or name  → row in mc_items
-   using grep for name if no exact match
-   could also take "id:style" as a character string
+## miner package ideas
 
-player.getOrientation that returns (Rotation,Pitch,Direction)
-   though direction is a vector of 3 values
+- `item_info`: take `id` or `name` and return rows from `mc_items1;
+   use `grep` for `name` if no exact match.
+   Could also take `id:style` as a character string.
+
+- `player.getOrientation` that returns (Rotation,Pitch,Direction),
+   though note that direction is a vector of 3 values
