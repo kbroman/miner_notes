@@ -71,8 +71,8 @@
   ```
 
 
-  [block hits must be with sword and you need to press left-click and
-  right-click together for some reason]
+  (block hits must be with sword and it seems you need to press left-click
+  and right-click together for some reason)
 
 
 - camera stuff is minecraft:pi only
