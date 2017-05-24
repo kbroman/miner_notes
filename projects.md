@@ -1,5 +1,10 @@
 ## miner project ideas
 
+- The
+  [Learn to program with Minecraft](https://www.nostarch.com/programwithminecraft/)
+  book teach the basic of Python programming (variables, arithmetic, loops,
+  conditionals, functions, etc.) with minecraft. We could do all of that with R.
+
 - Drawing shapes: square, rectangle, circle, ellipse, triangle, cube, sphere, knot
 
 - Make a pyramid
@@ -15,6 +20,10 @@
   certain kind of block (e.g., placing flowers, but only on grass or
   dirt) (again, from
   [this tutorial](https://www.raspberrypi.org/learning/getting-started-with-minecraft-pi/worksheet/).)
+
+- Be Midas: every block you step on turns to gold
+
+- Be Elsa: when you step on water, it turns to ice
 
 - Make a contour plot of a mountain: use `getHeight` to determine
   height and then plot that in R
@@ -35,8 +44,3 @@
   [here](http://smarterpoland.pl/index.php/2016/09/minecharts-1-minecraft-r-edgar-andersons-iris-data/).
 
 - Make a bouncing ball
-
-- The
-  [Learn to program with Minecraft](https://www.nostarch.com/programwithminecraft/)
-  book teach the basic of Python programming (variables, arithmetic, loops,
-  conditionals, functions, etc.) with minecraft. We could do all of that with R.
