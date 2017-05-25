@@ -48,6 +48,10 @@ I'm following the raspberry pi instructions in
   java -jar -Xms512M -Xmx1024M spigot-1.11.2.jar
   ```
 
+  The setting `Xmx` is the maximum amount of RAM for java; `Xms` is
+  the initial amount of RAM. Type `java -X` to set a brief explanation
+  of these and related settings.
+
 - It will create a file `eula.txt` halt. You need to edit that file
   and change the line `eula=false` to `eula=true`. By doing so, you're
   saying you agree to the "End user license agreement" (EULA).
