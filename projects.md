@@ -44,3 +44,12 @@
   [here](http://smarterpoland.pl/index.php/2016/09/minecharts-1-minecraft-r-edgar-andersons-iris-data/).
 
 - Make a bouncing ball
+
+- Plot the coordinates of the "carbon backbone" in a protein, using
+  data from the
+  [Protein Data Bank](http://www.rcsb.org/pdb/home/home.do). For
+  example, look at the
+  [structure for the protein myoglobin](http://www.rcsb.org/pdb/explore/explore.do?structureId=1MBN),
+  the first protein whose three-dimesional structure was determined.
+  The PDB data file format is
+  [described here](http://www.wwpdb.org/documentation/file-format-content/format33/v3.3.html).
