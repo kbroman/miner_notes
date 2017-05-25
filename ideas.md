@@ -6,3 +6,12 @@
 
 - `player.getOrientation` that returns (Rotation,Pitch,Direction),
    though note that direction is a vector of 3 values
+
+- I've been focusing on
+  [RaspberryJuice](https://dev.bukkit.org/projects/raspberryjuice)
+  with [Spigot](https://www.spigotmc.com), but it seems one can do all
+  of this using an alternate method:
+  [RaspberryJam](https://github.com/arpruss/raspberryjammod) with
+  [Minecraft Forge](https://mcforge.readthedocs.io/en/latest/). If
+  we're ambitious, we could an R package for each, or a single package
+  that can be used with both.
