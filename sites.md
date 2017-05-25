@@ -42,7 +42,7 @@ has a lot of really fancy drawings, using turtle. But uses the
 [Raspberry Jam mod](https://github.com/arpruss/raspberryjammod), which
 is like [RaspberryJuice](https://dev.bukkit.org/projects/raspberryjuice), but
 using [Minecraft Forge](https://mcforge.readthedocs.io/en/latest/)
-rather than [Bukkit](https://dev.bukkit.org/)/[Spigot](https://www.spigotmc.com).
+rather than [Bukkit](https://dev.bukkit.org/)/[Spigot](https://www.spigotmc.org).
 
 [mcpiapi](https://github.com/kbsriram/mcpiapi): Like the
 [Raspberry Jam mod](https://github.com/arpruss/raspberryjammod)
