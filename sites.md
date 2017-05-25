@@ -36,3 +36,13 @@ http://minecraft.gamepedia.com/Server.properties
 
 Found this really useful for setting up spigot on Raspberry Pi:
 http://lemire.me/blog/2016/04/02/setting-up-a-robust-minecraft-server-on-a-raspberry-pi/
+
+[Python coding for minecraft instructable](http://www.instructables.com/id/Python-coding-for-Minecraft/)
+has a lot of really fancy drawings, using turtle. But uses the
+[Raspberry Jam mod](https://github.com/arpruss/raspberryjammod), which
+is like [RaspberryJuice](https://dev.bukkit.org/projects/raspberryjuice), but
+using [Minecraft Forge](https://mcforge.readthedocs.io/en/latest/)
+rather than [Bukkit](https://dev.bukkit.org/)/[Spigot](https://www.spigotmc.com).
+
+[mcpiapi](https://github.com/kbsriram/mcpiapi): Like the
+[Raspberry Jam mod](https://github.com/arpruss/raspberryjammod)
