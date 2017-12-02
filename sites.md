@@ -31,7 +31,7 @@ https://dmwiig.net/2016/11/13/how-to-install-the-latest-version-of-r-statistics-
     sudo apt-get install libcurl4-openssl-dev
     sudo apt-get install libssl-dev
 
-Minecraft serve configuration
+Minecraft server configuration
 http://minecraft.gamepedia.com/Server.properties
 
 Found this really useful for setting up spigot on Raspberry Pi:
